@@ -1,50 +1,41 @@
-# Re-create the README.md file content after kernel reset
+<h1 align="center">Hey 👋 Thanks for stopping by!<br>I'm learning and building in data analytics using Power BI, Python, SQL, and R. Feel free to explore my projects and see what I'm working on!</h1>
 
-readme_content = """
-# Abo El-Saud Khalifa
+###
 
-🎯 Aspiring Data Analyst | Business Intelligence & Analytics Student  
-📍 Giza, Egypt | 📧 aboelsaud.khalifa@gmail.com | [LinkedIn](https://www.linkedin.com/in/aboelsaudkhalifa)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-plain.svg" height="60" alt="notion logo"  />
+</div>
 
----
+###
 
-Hi! I'm a data analytics student passionate about turning raw data into actionable insights.  
-I work with tools like **Power BI**, **Excel**, **Python**, and **SQL** to analyze, clean, and visualize data.  
-My goal is to help businesses make smarter, data-driven decisions.
+<div align="center">
+  <a href="https://www.linkedin.com/in/aboelsaudkhalifa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aboelsaud.khalifa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🔧 Tools & Skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aboelsaud-khalifa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboelsaud-khalifa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- **Languages:** Python, SQL (basic)  
-- **Visualization:** Power BI, Excel, Google Sheets  
-- **Data Work:** Data Cleaning, Statistical Analysis  
-- **Other Tools:** GitHub, Microsoft Office, Google Workspace  
+###
 
----
+<img src="https://raw.githubusercontent.com/aboelsaud-khalifa/aboelsaud-khalifa/output/snake.svg" alt="Snake animation" />
 
-## 📊 Featured Projects
-
-- **Adidas US Sales Dashboard**  
-  Built interactive reports in Power BI and Excel to uncover key sales insights.
-
-- **Banking System Simulation**  
-  Developed a basic banking system using Python and Flowgorithm to model transaction logic.
-
-- **Stock Market Workshop (One-Day)**  
-  Explored portfolio strategies and market behavior through real-world investment discussion.
-
----
-
-## 📌 What I'm Looking For
-
-I'm looking to grow in environments where data is taken seriously — whether it’s in business, marketing, finance, or tech.  
-If you value data, decision-making, and clear insights — let’s connect.
-"""
-
-# Save to a file
-file_path = "/mnt/data/README_Abo_El-Saud_Khalifa.md"
-with open(file_path, "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-file_path
+###
